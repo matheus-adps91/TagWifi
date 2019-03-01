@@ -1,0 +1,10 @@
+E:\Projeto_TagWifi\TagWifi\Dispositivo_Main\bin\Debug\Dispositivo_Main.exe.config
+E:\Projeto_TagWifi\TagWifi\Dispositivo_Main\bin\Debug\Dispositivo_Main.exe
+E:\Projeto_TagWifi\TagWifi\Dispositivo_Main\bin\Debug\Dispositivo_Main.pdb
+E:\Projeto_TagWifi\TagWifi\Dispositivo_Main\obj\Debug\Dispositivo_Main.csprojAssemblyReference.cache
+E:\Projeto_TagWifi\TagWifi\Dispositivo_Main\obj\Debug\Dispositivo_Main.Properties.Resources.resources
+E:\Projeto_TagWifi\TagWifi\Dispositivo_Main\obj\Debug\Dispositivo_Main.csproj.GenerateResource.cache
+E:\Projeto_TagWifi\TagWifi\Dispositivo_Main\obj\Debug\Dispositivo_Main.csproj.CoreCompileInputs.cache
+E:\Projeto_TagWifi\TagWifi\Dispositivo_Main\obj\Debug\Dispositivo_Main.exe
+E:\Projeto_TagWifi\TagWifi\Dispositivo_Main\obj\Debug\Dispositivo_Main.pdb
+E:\Projeto_TagWifi\TagWifi\Dispositivo_Main\obj\Debug\Dispositivo_Main.Form1.resources
